@@ -1,2 +1,2 @@
-# blogs-postgres-database
- Blog app with postgres
+# Blog App 
+ Blog App with Postgres Database
